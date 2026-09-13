@@ -19,3 +19,5 @@ __pycache__/
 *.pth
 
 *.tmp
+
+.DS_Store
