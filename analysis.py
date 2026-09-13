@@ -1,5 +1,6 @@
 def main():
-    print("AI data analysis project")
+    project_name = "AI Data Analysis"
+    print(project_name)
 
 if __name__ == "__main__":
     main()
